@@ -1,4 +1,4 @@
-## about me 👋
+## Hi there 👋
 i'm currently improving my backend development skills and focusing on building strong foundations
 
 ##  💻 Tech Stack
