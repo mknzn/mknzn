@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There! 👋
 i'm currently improving my backend development skills and focusing on building strong foundations
 
 ##  💻 Tech Stack
