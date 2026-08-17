@@ -4,5 +4,5 @@ i'm currently improving my backend development skills and focusing on building s
 ##  💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,mysql,visualstudio,github" />
+  <img src="https://skillicons.dev/icons?i=cs,java,mysql,visualstudio,github,windows" />
 </p>
